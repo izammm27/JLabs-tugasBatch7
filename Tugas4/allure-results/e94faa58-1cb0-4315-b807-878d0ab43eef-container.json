@@ -1,0 +1,1 @@
+{"uuid":"e94faa58-1cb0-4315-b807-878d0ab43eef","name":"february2022.Tugas4.BaseWebTest.quitChromeDriver","description":"","start":1646116531095,"stop":1646116531910,"children":["c8dcf8c2-5235-4e2b-a494-49b970593fc1"],"afters":[{"name":"quitChromeDriver","status":"passed","stage":"finished","description":"","start":1646116531096,"stop":1646116531910}]}

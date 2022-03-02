@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1646223786122,3807,Login,200,OK,Loadtest + Traffic distribution 1-1,text,true,,589,286,4,4,https://kolakproject.herokuapp.com/login,3793,0,3465
+1646223786941,2989,Login,200,OK,Loadtest + Traffic distribution 1-2,text,true,,589,286,4,4,https://kolakproject.herokuapp.com/login,2989,0,2654
+1646223787939,2020,Login,200,OK,Loadtest + Traffic distribution 1-3,text,true,,589,286,5,5,https://kolakproject.herokuapp.com/login,2020,0,1654
+1646223788938,1109,Login,200,OK,Loadtest + Traffic distribution 1-4,text,true,,589,286,5,5,https://kolakproject.herokuapp.com/login,1109,0,805
+1646223789998,270,Kolak Up,200,OK,Loadtest + Traffic distribution 1-1,text,true,,347,542,5,5,https://kolakproject.herokuapp.com/me/kolak/up,270,0,0
+1646223789998,279,Kolak Up,200,OK,Loadtest + Traffic distribution 1-3,text,true,,347,542,5,5,https://kolakproject.herokuapp.com/me/kolak/up,279,0,0
+1646223789998,282,Kolak Up,200,OK,Loadtest + Traffic distribution 1-2,text,true,,347,542,5,5,https://kolakproject.herokuapp.com/me/kolak/up,282,0,0
+1646223790048,280,Kolak Up,200,OK,Loadtest + Traffic distribution 1-4,text,true,,347,542,5,5,https://kolakproject.herokuapp.com/me/kolak/up,279,0,0
+1646223790269,268,Status,200,OK,Loadtest + Traffic distribution 1-1,text,true,,378,539,5,5,https://kolakproject.herokuapp.com/me/status,268,0,0
+1646223790277,281,Status,200,OK,Loadtest + Traffic distribution 1-3,text,true,,378,539,4,4,https://kolakproject.herokuapp.com/me/status,281,0,0
+1646223790280,286,Status,200,OK,Loadtest + Traffic distribution 1-2,text,true,,378,539,3,3,https://kolakproject.herokuapp.com/me/status,286,0,0
+1646223790328,276,Status,200,OK,Loadtest + Traffic distribution 1-4,text,true,,378,539,2,2,https://kolakproject.herokuapp.com/me/status,276,0,0
+1646223789937,1092,Login,200,OK,Loadtest + Traffic distribution 1-5,text,true,,589,286,1,1,https://kolakproject.herokuapp.com/login,1092,0,797
+1646223791030,282,Kolak Up,200,OK,Loadtest + Traffic distribution 1-5,text,true,,347,542,1,1,https://kolakproject.herokuapp.com/me/kolak/up,282,0,0
+1646223791313,271,Status,200,OK,Loadtest + Traffic distribution 1-5,text,true,,378,539,1,1,https://kolakproject.herokuapp.com/me/status,271,0,0
